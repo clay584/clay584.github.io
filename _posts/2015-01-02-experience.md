@@ -1,8 +1,13 @@
 ---
-title: "Art"
+title: "Experience"
 bg: turquoise  #defined in _config.yml, can use html color like '#0fbfcf'
 color: white   #text color
-fa-icon: paint-brush
+fa-spin: cog
 ---
 
-#### A new section- oh the humanity!
+#### Work History
+adsf
+dsaf
+asdf
+dsaf
+
