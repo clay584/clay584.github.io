@@ -6,6 +6,7 @@ fa-icon: cog
 ---
 
 ### 2013 - Present :: Presidio
+  
 #### Sr. Network Engineer
 
 - Designed and deployed OTV to extend layer2 connectivity to multiple data centers on Nexus 7000 and ASR platforms for health care organization.
@@ -22,6 +23,7 @@ fa-icon: cog
 - Designed and built Cisco Meraki route/switch/wireless network for large entertainment venue.
 
 ### 2006 - 2013 :: Bright House Networks
+   
 #### Sr. Network/Systems Engineer
 
 - Designed and implemented Bright House Network’s video conferencing infrastructure using Cisco TelePresence, Tandberg VCS, Cisco TMS, and Polycom equipment.
