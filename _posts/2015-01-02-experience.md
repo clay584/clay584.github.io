@@ -5,8 +5,8 @@ color: white   #text color
 fa-icon: cog
 ---
 
-#### 2013 - Present :: Presidio
-##### Sr. Network Engineer
+### 2013 - Present :: Presidio
+#### Sr. Network Engineer
 
 - Designed and deployed OTV to extend layer2 connectivity to multiple data centers on Nexus 7000 and ASR platforms for health care organization.
 - Designed F5 GTM/LTM solutions for multiple large organizations.
@@ -21,8 +21,8 @@ fa-icon: cog
 - Migrated large state government organization from Cisco Nexus 5k to Catalyst 6800 VSS core for campus routing and switching.
 - Designed and built Cisco Meraki route/switch/wireless network for large entertainment venue.
 
-#### 2006 - 2013 :: Bright House Networks
-##### Sr. Network/Systems Engineer
+### 2006 - 2013 :: Bright House Networks
+#### Sr. Network/Systems Engineer
 
 - Designed and implemented Bright House Network’s video conferencing infrastructure using Cisco TelePresence, Tandberg VCS, Cisco TMS, and Polycom equipment.
 - Designed and deployed enterprise-wide WIFI with over 500 access points.
@@ -46,10 +46,9 @@ fa-icon: cog
 - Manage Bright House Networks’ DNS zones and name servers.
 - Administer Symantec Netbackup and tape libraries to back up all business critical data.
 
-##### Network Engineer
+#### Network Engineer
 
 - Provided technical support for metro-ethernet and internet circuits for DA customers of Bright House Networks.
 - Troubleshot network transport issues across Bright House Networks’ Tampa Bay metro network.
 - Created documentation for supporting and troubleshooting DA circuits for the department.
-
 
