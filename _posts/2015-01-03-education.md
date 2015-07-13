@@ -7,11 +7,11 @@ fa-icon: book
 
 ### University of Florida
 
-fa-icon: plus-square Bachelor of Science in Business Administration, with a major in Decision and Information Sciences (now known as a major in Information Systems).
+<i class="fa fa-plus-square"></i> Bachelor of Science in Business Administration, with a major in Decision and Information Sciences (now known as a major in Information Systems).
 
 
 ### Aucilla Christian Academy
 
-fa-icon: plus-square Graduated with honors and college-prep awards.
+<i class="fa fa-plus-square"></i> Graduated with honors and college-prep awards.
 
 
