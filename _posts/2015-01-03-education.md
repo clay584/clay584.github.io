@@ -7,7 +7,7 @@ fa-icon: book
 
 ### Industry Certifications
 
-- CISSP :: ISC^2 :: License 445910
+- CISSP :: ISC<sup>2</sup> :: License 445910
 - CCNP R & S :: Cisco Systems :: CSCO11323274
 - F5 Certified BigIP Administrator :: F5 Networks :: F50000086829
 - CMNA :: Cisco Meraki
